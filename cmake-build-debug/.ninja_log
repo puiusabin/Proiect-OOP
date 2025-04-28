@@ -1,0 +1,26 @@
+# ninja log v6
+1	647	1744627465007989427	CMakeFiles/proiect.dir/Sources/Reservation.cpp.o	1e7668a9170fd839
+1	649	1744627465007870552	CMakeFiles/proiect.dir/Sources/MenuItem.cpp.o	bd8e61dcb6a3b257
+1	653	1744627465008097178	CMakeFiles/proiect.dir/Sources/Table.cpp.o	ff465bd61d3c36bc
+4	524	1744628054547510410	CMakeFiles/proiect.dir/Sources/TUI.cpp.o	f3f17176eb6a3541
+5	482	1744627720571349852	CMakeFiles/proiect.dir/main.cpp.o	fbbf6be9b5b68ecf
+1	676	1744627465008455096	CMakeFiles/proiect.dir/Sources/Order.cpp.o	512b12325f661bf6
+2	690	1744627465008903724	CMakeFiles/proiect.dir/Sources/Inventory.cpp.o	155cc9ccb1ffd75a
+525	606	1744628055067543950	proiect	dfc294f0ad2878de
+2	728	1744627465009324184	CMakeFiles/proiect.dir/Sources/Restaurant.cpp.o	9b0eb81a713d5ced
+8	803	1745839735021147387	CMakeFiles/proiect.dir/Sources/Observable.cpp.o	ea08bc455a72b09
+6	836	1745839735019940098	CMakeFiles/proiect.dir/Sources/Table.cpp.o	ff465bd61d3c36bc
+6	882	1745839735019807932	CMakeFiles/proiect.dir/Sources/Reservation.cpp.o	1e7668a9170fd839
+7	903	1745839735020065431	CMakeFiles/proiect.dir/Sources/Order.cpp.o	512b12325f661bf6
+6	916	1745839735019306184	CMakeFiles/proiect.dir/main.cpp.o	fbbf6be9b5b68ecf
+6	931	1745839735019670557	CMakeFiles/proiect.dir/Sources/MenuItem.cpp.o	bd8e61dcb6a3b257
+7	951	1745839735020938179	CMakeFiles/proiect.dir/Sources/TUI.cpp.o	f3f17176eb6a3541
+7	979	1745839735020787013	CMakeFiles/proiect.dir/Sources/Restaurant.cpp.o	9b0eb81a713d5ced
+7	985	1745839735020613847	CMakeFiles/proiect.dir/Sources/Inventory.cpp.o	155cc9ccb1ffd75a
+836	1335	1745839735849975367	CMakeFiles/proiect.dir/Sources/OrderProcessor.cpp.o	4580883df9291025
+6	485	1745839761293721452	CMakeFiles/proiect.dir/Sources/Logger.cpp.o	e4eb426aacdaad19
+486	594	1745839761772964260	proiect	3db921891641cfa6
+7	710	1745840035250028046	CMakeFiles/proiect.dir/Sources/TUI.cpp.o	f3f17176eb6a3541
+710	801	1745840035952789548	proiect	3db921891641cfa6
+29	666	1745846062532923787	CMakeFiles/proiect.dir/Sources/TUI.cpp.o	f3f17176eb6a3541
+666	772	1745846063169592295	proiect	3db921891641cfa6
