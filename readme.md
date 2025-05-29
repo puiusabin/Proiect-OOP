@@ -13,7 +13,7 @@ Acest proiect simulează un restaurant cu următoarele capabilităţi:
 - **Comenzi** ce pot conține multiple produse, cu calcul total şi combinare (`operator+`).
 - **Inventar** de ingrediente (struct `Ingredient`), cu adăugare, scădere și persistență (fișier text).
 - **Procesare asincronă a comenzilor**: fiecare comandă se “preparează” pe un thread dedicat, cu notificări către TUI.
-- **Logging** thread-safe într-un fișier `restaurant.log` și pe consolă (singleton `Logger`).
+- **Logging** thread-safe într-un fișier `restaurant.log` și pe consolă.
 - **Pattern Observer/Observable** pentru notificări de evenimente (comenzi gata).
 
 ---
